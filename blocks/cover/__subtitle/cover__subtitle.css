@@ -13,19 +13,19 @@
     text-align: center;
     color: #FFFFFF;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1280px) {
     .cover__subtitle {
         left: 332px;
         top: 379px;
     }
  }
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 1024px) {
     .cover__subtitle {
         left: 204px;
         top: 299px;
     }
  }
- @media screen and (max-width: 320px) {
+ @media screen and (max-width: 768px) {
     .cover__subtitle {
         width: 288px;
         left: 16px;
