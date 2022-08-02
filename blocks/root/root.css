@@ -1,20 +1,22 @@
 .root {
     min-width: 1280px;
     background-color: #2A2C2F;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1280px) {
     .root {
         min-width: 1024px;
     }
 
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
     .root {
         min-width: 768px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
     .root {
         min-width: 320px;
     }

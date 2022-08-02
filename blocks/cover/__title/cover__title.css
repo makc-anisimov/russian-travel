@@ -15,19 +15,19 @@
     text-decoration: none;
     color: #FFFFFF;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1280px) {
     .cover__title {
         left: 232px;
         top: 195px;
     }
  }
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 1024px) {
     .cover__title {
         left: 104px;
         top: 115px;
     }
  }
- @media screen and (max-width: 320px) {
+ @media screen and (max-width: 768px) {
     .cover__title {
         width: 288px;
         height: 70px;

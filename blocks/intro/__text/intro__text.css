@@ -9,12 +9,12 @@
     color: #FFFFFF;
     text-align: start;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
     .intro__text {
         width: 720px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
     .intro__text {
         width: 288px;
         font-family: 'Inter';
