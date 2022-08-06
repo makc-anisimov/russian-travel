@@ -7,7 +7,7 @@
     grid-auto-flow: column;
     gap: 18px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .footer__links {
         width: 186px;
         grid-template-columns: 1fr;
