@@ -9,7 +9,7 @@
 }
 @media screen and (max-width: 767px) {
     .footer__links {
-        width: 186px;
+        max-width: 186px;
         grid-template-columns: 1fr;
         grid-template-rows: repeat(5, auto);
         grid-auto-flow: row;
